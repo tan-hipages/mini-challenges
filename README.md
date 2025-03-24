@@ -1,5 +1,3 @@
-# mini-challenges
-
 ## Challenges
 
 ### 1. Array Manipulation
@@ -54,8 +52,7 @@ To run the array manipulation challenge:
 yarn run array-manipulation
 # or
 npm run array-manipulation
-
-
+````
 
 #### React Coding Challenges
 

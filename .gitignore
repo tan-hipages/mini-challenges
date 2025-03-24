@@ -1,0 +1,8 @@
+# Common excludes
+node_modules/
+.DS_Store
+*.log
+test
+# Make sure to not ignore live-coding-challenges directory
+!live-coding-challenges/
+!live-coding-challenges/*
